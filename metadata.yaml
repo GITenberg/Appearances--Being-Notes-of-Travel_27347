@@ -1,0 +1,33 @@
+_repo: Appearances--Being-Notes-of-Travel_27347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickinson, G. Lowes (Goldsworthy Lowes)
+    aliases:
+    - Dickinson, Goldsworthy Lowes
+    - Dickinson, Lowes
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1984'
+    url: http://www.gutenberg.org/2009/agents/1984
+    wikipedia: http://en.wikipedia.org/wiki/Goldsworthy_Lowes_Dickinson
+description: India -- China -- Japan -- America.
+gutenberg_issued: '2008-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'East Asia -- Description and travel'
+- !lcsh 'Civilization, Oriental'
+- !lcc 'CB'
+- !lcsh 'United States -- Civilization'
+tableOfContents: India -- China -- Japan -- America.
+title: 'Appearances: Being Notes of Travel'
+url: http://www.gutenberg.org/ebooks/27347
