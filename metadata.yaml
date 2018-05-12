@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1984
     wikipedia: http://en.wikipedia.org/wiki/Goldsworthy_Lowes_Dickinson
 description: India -- China -- Japan -- America.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27347#Appearances--Being-Notes-of-Travel
 gutenberg_issued: '2008-11-28'
 gutenberg_type: Text
 identifiers:
